@@ -1,0 +1,12 @@
+import:
+- package: github.com/jonboulle/clockwork
+  version: 3f831b65b61282ba6bece21b91beea2edc4c887a
+- package: github.com/coreos/pkg
+  subpackages:
+  - httputil
+  - timeutil
+  - health
+  - capnslog
+  version: 7373797ee9cd9f7bcfa6a19632c2f66a1183ebb3
+package: github.com/coreos/go-oidc
+

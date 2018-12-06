@@ -1,0 +1,13 @@
+hash: ae36ba46841c6492f2d592c70db05b3fbaa8774d97407ee25532c1f97200c5cb
+imports:
+- name: github.com/jonboulle/clockwork
+  version: 3f831b65b61282ba6bece21b91beea2edc4c887a
+- name: github.com/coreos/pkg
+  subpackages:
+  - httputil
+  - timeutil
+  - health
+  - capnslog
+  version: 7373797ee9cd9f7bcfa6a19632c2f66a1183ebb3
+updated: '2018-06-09T14:53:02.180659+00:00'
+
